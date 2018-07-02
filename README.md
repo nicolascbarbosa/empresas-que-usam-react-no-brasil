@@ -52,11 +52,12 @@ GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, 
 Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
-Gympass | https://www.gympass.com/ |
+Gympass | https://www.gympass.com/ | Redux, Saga, Webpack, Jest, React Native
 Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 Home Team | https://hometeam.com.br/ | Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
 Icarus Tech | http://icarustech.com.br | Redux
+Iclinic | https://iclinic.com.br/ | 
 iFood | https://ifood.com.br | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
